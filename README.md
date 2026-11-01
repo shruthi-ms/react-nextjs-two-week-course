@@ -16,7 +16,7 @@ Each day explains the mental model first, then the syntax, then a hands-on lab, 
 If GitHub Pages is enabled for this repository, the course is at:
 
 ```
-https://github.com/shruthi-ms/react-nextjs-two-week-course/
+[https://github.com/shruthi-ms/react-nextjs-two-week-course/](https://shruthi-ms.github.io/react-nextjs-two-week-course/)
 ```
 
 To enable it: **Settings → Pages → Build and deployment → Deploy from a branch**, choose `main` and `/ (root)`, then save.
